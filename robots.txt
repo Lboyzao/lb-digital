@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://lb-digital.pages.dev/sitemap.xml
